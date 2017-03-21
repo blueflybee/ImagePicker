@@ -4,8 +4,8 @@
 
 [![Download](https://api.bintray.com/packages/changjiashuai/maven/imagepicker/images/download.svg)](https://bintray.com/changjiashuai/maven/imagepicker/_latestVersion)
 
+![](screenshots/image5.png)![](screenshots/image6.png)![](screenshots/image1.png)![](screenshots/image2.png)![](screenshots/image3.png)![](screenshots/image4.png)
 
- 
 ### Adding to your project
 
 > Add the jcenter repository information in your build.gradle file like this
