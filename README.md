@@ -4,7 +4,14 @@
 
 [![Download](https://api.bintray.com/packages/changjiashuai/maven/imagepicker/images/download.svg)](https://bintray.com/changjiashuai/maven/imagepicker/_latestVersion)
 
-![](screenshots/image5.png)![](screenshots/image6.png)![](screenshots/image1.png)![](screenshots/image2.png)![](screenshots/image3.png)![](screenshots/image4.png)
+----
+<img  width="200" height="360" src="/screenshots/image5.png"/>
+<img width="200" height="360" src="/screenshots/image6.png"/>
+<img src="/screenshots/image1.png" width="200" height="360"/>
+<img src="/screenshots/image2.png" width="200" height="360"/>
+<img src="/screenshots/image3.png" width="200" height="360"/>
+<img src="/screenshots/image4.png" width="200" height="360"/>
+----
 
 ### Adding to your project
 
